@@ -1,3 +1,10 @@
+-=(Centipede_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+Dev notes: Clocks swapped in sys.tcl
+
+___
 # Centipede
 
 FPGA implementation by lisper of [Centipede](https://github.com/lisper/arcade-centipede "Centipede") arcade game 
